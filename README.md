@@ -1,5 +1,5 @@
-Solano Labs branch
-[https://solanolabs.com/](https://solanolabs.com/)
+Travis CI branch
+[https://travis-ci.org/](https://travis-ci.org/)
 
 The goal of this repo is to provide equivalent examples of CI SaaS implementations, where each branch is configured to use a different CI platform. Each branch will be configured to perform the same tasks, which will be updated here:
 
