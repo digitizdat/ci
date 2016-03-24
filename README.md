@@ -1,5 +1,5 @@
-Circle CI branch
-[https://circleci.com/](https://circleci.com/)
+Snap CI branch
+[https://snap-ci.com/](https://snap-ci.com/)
 
 The goal of this repo is to provide equivalent examples of CI SaaS implementations, where each branch is configured to use a different CI platform. Each branch will be configured to perform the same tasks, which will be updated here:
 
